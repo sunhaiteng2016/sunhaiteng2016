@@ -8,4 +8,4 @@
 sunhaiteng2016/sunhaiteng2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-大家好，我是一个五年开发的安卓练习生，希望大家多多支持！
+大家好，我是一个五年开发的安卓练习生，希望大家多多支持！唱，跳， rap， 写代码样样精通。
